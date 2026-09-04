@@ -1,0 +1,3 @@
+#!/bin/sh
+SCRIPT_DIR="$(cd "$(dirname "$(readlink -f "$0")")" && pwd)"
+"$SCRIPT_DIR/bin/xr_3da" -fsltx "$SCRIPT_DIR/fsgame.ltx"

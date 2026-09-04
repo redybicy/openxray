@@ -1,0 +1,9 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=S.T.A.L.K.E.R.: Call of Pripyat
+Exec=stalker_cop
+Icon=stalker_cop
+Terminal=false
+Type=Application
+Categories=Game;
+Keywords=stalker;stalker cop;stalker_cop;call;pripyat;call of;call of pripyat;
